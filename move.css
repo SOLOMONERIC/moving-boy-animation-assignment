@@ -1,0 +1,16 @@
+.delivery-boy{
+    width: 25vw;
+    position: absolute;
+    /* animation-direction: forward; */
+    animation: moveRight 8s ease-in  infinite;
+    
+}
+
+@keyframes moveRight{
+    from {
+        left:0;
+    }
+    to {
+        left:100%;
+    }
+}

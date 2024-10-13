@@ -1,0 +1,15 @@
+body{
+    background-image: url("./footer-illustration.png");
+    /* background-size: contain; */
+    background-size: 100vw 100vh;
+    background-repeat:no-repeat ;
+    background-attachment: scroll;
+    width: 100vw;
+    /* height: 100vh; */
+    min-height: 100vh;
+}
+
+
+
+
+
